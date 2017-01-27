@@ -1,0 +1,24 @@
+{
+  "name": "croggi",
+  "version": "1.0.0",
+  "description": "A node.js congram game protocol server.",
+  "author": "moriczgergo",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moriczgergo/croggi"
+  },
+  "bugs": {
+    "url": "https://github.com/moriczgergo/croggi/issues"
+  },
+  "keywords": [
+    "congram",
+    "game"
+  ],
+  "license": "GPL-3.0",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
